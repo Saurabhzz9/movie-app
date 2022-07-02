@@ -10,12 +10,16 @@ $ npm uninstall -g ionic
 $ npm install -g @ionic/cli
 
 Install 
+
 npm install
 
 Start an app
+
 ionic start
 
 Run the App
+
+
 The majority of Ionic app development can be spent right in the browser using the ionic serve command:
 
 $ cd myApp
