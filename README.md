@@ -1,5 +1,5 @@
 # movie-app
-Install the Ionic CLI with npm:
+**Install the Ionic CLI with npm:**
 
 npm install -g @ionic/cli
 
@@ -9,23 +9,24 @@ If there was a previous installation of the Ionic CLI, it will need to be uninst
 $ npm uninstall -g ionic
 $ npm install -g @ionic/cli
 
-Install 
+**Install **
 
 npm install
 
-Start an app
+**Start an app**
 
 ionic start
 
-Run the App
+**Run the App**
 
 
 The majority of Ionic app development can be spent right in the browser using the ionic serve command:
 
-$ cd myApp
+$ cd Project Name
+
 $ ionic serve
 
-Screenshot of the app
+**Screenshot of the app**
 
 
 
